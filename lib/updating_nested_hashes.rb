@@ -47,9 +47,8 @@ def add_characters
          ]
       }
    }
-
    
-epic_tragedy[:additional_characters] = []
+   epic_tragedy[:additional_characters] = []
 prince = {name: "Prince Escalus"}
 apothecary = {name: "Apothecary"}
 epic_tragedy[:additional_characters] << prince
