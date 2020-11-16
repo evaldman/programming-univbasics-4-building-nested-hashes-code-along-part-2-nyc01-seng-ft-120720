@@ -56,3 +56,5 @@ epic_tragedy[:additional_characters] << prince
 epic_tragedy[:additional_characters] << apothecary
 
 end
+
+puts update_status
